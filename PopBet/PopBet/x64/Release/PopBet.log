@@ -1,0 +1,11 @@
+﻿  Exception.cpp
+  Game.cpp
+  pythonWrap.cpp
+     Создается библиотека C:\Users\Anna\Documents\Проекты\PopBet\PopBet\x64\Release\PopBetLib.lib и объект C:\Users\Anna\Documents\Проекты\PopBet\PopBet\x64\Release\PopBetLib.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1688 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  PopBet.vcxproj -> C:\Users\Anna\Documents\Проекты\PopBet\PopBet\x64\Release\PopBetLib.pyd
+  C:\Users\Anna\Documents\Проекты\PopBet\PopBet\x64\Release\PopBetLib.pyd
+  Скопировано файлов: 1.
